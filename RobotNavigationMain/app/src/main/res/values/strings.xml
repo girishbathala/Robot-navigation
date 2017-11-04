@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Robot  Navigator</string>
+    <string name="input_a">Source location ( Ex: 2 3)  </string>
+    <string name="input_b">Direction Facing( N for North, E for East and so on)</string>
+    <string name="input_c">Actions to be performed(Ex:MMRLMRL)</string>
+    <string name="go">Go !!!</string>
+
+</resources>

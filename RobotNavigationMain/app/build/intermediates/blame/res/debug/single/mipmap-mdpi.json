@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\malli\\AndroidStudioProjects\\RobotNavigator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\malli\\AndroidStudioProjects\\RobotNavigator\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\malli\\AndroidStudioProjects\\RobotNavigator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\splash.png",
+        "source": "C:\\Users\\malli\\AndroidStudioProjects\\RobotNavigator\\app\\src\\main\\res\\mipmap-mdpi\\splash.png"
+    },
+    {
+        "merged": "C:\\Users\\malli\\AndroidStudioProjects\\RobotNavigator\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\malli\\AndroidStudioProjects\\RobotNavigator\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

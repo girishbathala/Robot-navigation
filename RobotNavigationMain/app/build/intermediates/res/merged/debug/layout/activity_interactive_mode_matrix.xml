@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:orientation="vertical"
+    tools:layout_editor_absoluteX="8dp"
+    tools:layout_editor_absoluteY="8dp"
+    android:weightSum="1">
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:rowCount="8"
+        android:columnCount="8"
+        android:layout_gravity="center"
+        android:layout_marginTop="15dp"
+        >
+        <!-- ROW 8 -->
+        <Button
+            android:id="@+id/btn81"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn82"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn83"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn84"
+            android:layout_width="40dp"/>
+
+        <Button
+            android:id="@+id/btn85"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn86"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn87"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn88"
+            android:layout_width="40dp"/>
+
+        <!-- ROW 7 -->
+        <Button
+            android:id="@+id/btn71"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn72"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn73"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn74"
+            android:layout_width="40dp"/>
+
+        <Button
+            android:id="@+id/btn75"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn76"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn77"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn78"
+            android:layout_width="40dp"/>
+
+        <!-- ROW 6 -->
+        <Button
+            android:id="@+id/btn61"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn62"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn63"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn64"
+            android:layout_width="40dp"/>
+
+        <Button
+            android:id="@+id/btn65"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn66"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn67"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn68"
+            android:layout_width="40dp"/>
+
+        <!-- ROW 5 -->
+        <Button
+            android:id="@+id/btn51"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn52"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn53"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn54"
+            android:layout_width="40dp"/>
+
+        <Button
+            android:id="@+id/btn55"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn56"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn57"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn58"
+            android:layout_width="40dp"/>
+
+        <!-- ROW 4 -->
+        <Button
+            android:id="@+id/btn41"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn42"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn43"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn44"
+            android:layout_width="40dp"/>
+
+        <Button
+            android:id="@+id/btn45"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn46"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn47"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn48"
+            android:layout_width="40dp"/>
+
+
+
+        <!-- ROW 3 -->
+        <Button
+            android:id="@+id/btn31"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn32"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn33"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn34"
+            android:layout_width="40dp"/>
+
+        <Button
+            android:id="@+id/btn35"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn36"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn37"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn38"
+            android:layout_width="40dp"/>
+
+
+        <!-- ROW 2 -->
+        <Button
+            android:id="@+id/btn21"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn22"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn23"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn24"
+            android:layout_width="40dp"/>
+
+        <Button
+            android:id="@+id/btn25"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn26"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn27"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn28"
+            android:layout_width="40dp"/>
+
+
+        <!-- ROW 1 -->
+        <Button
+            android:id="@+id/btn11"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn12"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn13"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn14"
+            android:layout_width="40dp"/>
+
+        <Button
+            android:id="@+id/btn15"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn16"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn17"
+            android:layout_width="40dp"/>
+        <Button
+            android:id="@+id/btn18"
+            android:layout_width="40dp"/>
+
+
+    </GridLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="10dp"
+        android:layout_weight="2.31">
+
+        <ImageButton
+            android:id="@+id/imageButtonLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/left" />
+        <ImageButton
+            android:id="@+id/imageButtonUp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/up" />
+        <ImageButton
+            android:id="@+id/imageButtonRight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/right" />
+        <ImageButton
+            android:id="@+id/imageButtonRetry"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/retry" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
