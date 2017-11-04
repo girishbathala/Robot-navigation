@@ -43,4 +43,4 @@ the two modes resides in \RobotNavigator\app\src\main\java\com\example\Girish\ro
 corresponding code for the User Interface resides in \RobotNavigator\app\src\main\res\layout.  
 
 3. Screenshots of the application can be found in the Screenshots folder.  
-==========================================================================================================
+
