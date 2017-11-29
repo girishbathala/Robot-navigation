@@ -44,3 +44,4 @@ corresponding code for the User Interface resides in \RobotNavigator\app\src\mai
 
 3. Screenshots of the application can be found in the Screenshots folder.  
 
+|<img src = "Screenshots/Screenshot_1.png" width = "200" height = "400"> |<img src = "Screenshots/Screenshot_2.png" width = "200" height = "400">|<img src = "Screenshots/Screenshot_3.png" width = "200" height = "400"> |<img src = "Screenshots/Screenshot_4.png" width = "200" height = "400">  
